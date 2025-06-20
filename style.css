@@ -17,7 +17,6 @@ body {
 }
 
 .book {
-    position: relative;
     flex: 0 0 20%;
     height: 300px;
     min-width: 0;
